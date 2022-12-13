@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"dev.lucas.classes","c":"Marciano","l":"analizaTipoPergunta(String)","u":"analizaTipoPergunta(java.lang.String)"},{"p":"dev.lucas.classes","c":"Marciano","l":"Marciano()","u":"%3Cinit%3E()"},{"p":"dev.lucas.classes","c":"Marciano","l":"responda()"}];updateSearchResults();
